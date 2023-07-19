@@ -14,49 +14,49 @@ const rawPhotoDetails = [
   {
     fileName: "product-1.jpg",
     name: "Product 1",
-    category: "product",
+    category: "web",
     width: 1080,
     height: 768
   },
   {
     fileName: "branding-1.jpg",
     name: "Branding 1",
-    category: "branding",
+    category: "software",
     width: 1080,
     height: 768
   },
   {
     fileName: "books-1.jpg",
     name: "Books 1",
-    category: "books",
+    category: "others",
     width: 1080,
     height: 768
   },
   {
     fileName: "app-2.jpg",
     name: "App 2",
-    category: "app",
+    category: "web",
     width: 1080,
     height: 768
   },
   {
     fileName: "product-2.jpg",
     name: "Product 2",
-    category: "product",
+    category: "web",
     width: 1080,
     height: 768
   },
   {
     fileName: "branding-2.jpg",
     name: "Branding 2",
-    category: "branding",
+    category: "software",
     width: 1080,
     height: 768
   },
   {
     fileName: "books-2.jpg",
     name: "Books 2",
-    category: "books",
+    category: "others",
     width: 1080,
     height: 768
   },
@@ -70,21 +70,21 @@ const rawPhotoDetails = [
   {
     fileName: "product-3.jpg",
     name: "Product 3",
-    category: "product",
+    category: "app",
     width: 1080,
     height: 768
   },
   {
     fileName: "branding-3.jpg",
     name: "Branding 3",
-    category: "branding",
+    category: "software",
     width: 1080,
     height: 768
   },
   {
     fileName: "books-3.jpg",
     name: "Books 3",
-    category: "books",
+    category: "others",
     width: 1080,
     height: 768
   },

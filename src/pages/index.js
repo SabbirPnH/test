@@ -154,7 +154,7 @@ export default function Home() {
 
           <div className="section-header">
             <h2>About Us</h2>
-            <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
+            <p>We pride ourselves on delivering high-quality solutions on time and within budget, while maintaining strong communication and transparency throughout the entire process. </p>
           </div>
 
           <div className="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
@@ -166,19 +166,19 @@ export default function Home() {
             </div>
 
             <div className="col-lg-7">
-              <h3 className="pt-0 pt-lg-5">Neque officiis dolore maiores et exercitationem quae est seda lidera pat claero</h3>
+              <h3 className="pt-0 pt-lg-5">We are a leading it solution company. </h3>
 
               <ul className="nav nav-pills mb-3">
-                <li><a className="nav-link active" data-bs-toggle="pill" href="#tab1">Saepe fuga</a></li>
-                <li><a className="nav-link" data-bs-toggle="pill" href="#tab2">Voluptates</a></li>
-                <li><a className="nav-link" data-bs-toggle="pill" href="#tab3">Corrupti</a></li>
+                <li><a className="nav-link active" data-bs-toggle="pill" href="#tab1">About Us</a></li>
+                <li><a className="nav-link" data-bs-toggle="pill" href="#tab2">Our Mission</a></li>
+                <li><a className="nav-link" data-bs-toggle="pill" href="#tab3">Our Vision</a></li>
               </ul>
 
               <div className="tab-content">
 
                 <div className="tab-pane fade show active" id="tab1">
 
-                  <p className="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+                  <p className="fst-italic">PNH IT Solutions is a leading IT firm dedicated to providing innovative and comprehensive technology solutions to businesses of all sizes. With a team of highly skilled professionals and a proven track record of success, we deliver cutting-edge solutions tailored to meet the unique needs and challenges of our clients. </p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
@@ -202,7 +202,7 @@ export default function Home() {
 
                 <div className="tab-pane fade show" id="tab2">
 
-                  <p className="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+                  <p className="fst-italic">Our goal is to empower organizations by leveraging the latest advancements in IT to drive productivity, efficiency, and growth. Whether it's developing custom software applications, implementing robust cybersecurity measures, or optimizing IT infrastructure, we have the expertise to deliver results. </p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
@@ -262,7 +262,7 @@ export default function Home() {
         <div className="container">
           <div className="clients-header">
             <h2 className="text-center">Our Clients</h2>
-            <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
+            <p>These are just a few examples, and our client base extends across various other industries such as telecommunications, energy, transportation, and more. </p>
           </div>
         </div>
         <div className="container" data-aos="zoom-out">

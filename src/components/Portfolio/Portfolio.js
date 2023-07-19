@@ -50,10 +50,10 @@ export default function Portfolio() {
 
             <ul className="portfolio-flters">
                 <li className={isCatActive("all")} onClick={() => filterCategory('all')}>All</li>
-                <li className={isCatActive("app")} onClick={() => filterCategory('app')}>App</li>
-                <li className={isCatActive("product")} onClick={() => filterCategory('product')}>Product</li>
-                <li className={isCatActive("branding")} onClick={() => filterCategory('branding')}>Branding</li>
-                <li className={isCatActive("books")} onClick={() => filterCategory('books')}>Books</li>
+                <li className={isCatActive("product")} onClick={() => filterCategory('web')}>Web Development</li>
+                <li className={isCatActive("app")} onClick={() => filterCategory('app')}>App Development</li>
+                <li className={isCatActive("branding")} onClick={() => filterCategory('software')}>Software Solution</li>
+                <li className={isCatActive("books")} onClick={() => filterCategory('others')}>Others</li>
             </ul>
 
             <div className="row g-0 portfolio-container">
