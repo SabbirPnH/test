@@ -46,7 +46,7 @@ export default function Header({settings}) {
                     about: document.querySelector('#about'),
                     services: document.querySelector('#services'),
                     // portfolio: document.querySelector('#portfolio'),
-                    team: document.querySelector('#team'),
+                    // team: document.querySelector('#team'),
                     contact: document.querySelector('#contact')
                 }
                 const pos = {
@@ -54,7 +54,7 @@ export default function Header({settings}) {
                     about: observable.about.getBoundingClientRect(),
                     services: observable.services.getBoundingClientRect(),
                     // portfolio: observable.portfolio.getBoundingClientRect(),
-                    team: observable.team.getBoundingClientRect(),
+                    // team: observable.team.getBoundingClientRect(),
                     contact: observable.contact.getBoundingClientRect()
                 }
                 
@@ -67,8 +67,8 @@ export default function Header({settings}) {
                     setSelectedEventKey(3);
                 //   } else if (pos.portfolio.top < window.innerHeight && pos.portfolio.bottom >= 0) {
                 //     setSelectedEventKey(4);
-                } else if (pos.team.top < window.innerHeight && pos.team.bottom >= 0) {
-                    setSelectedEventKey(5);
+                // } else if (pos.team.top < window.innerHeight && pos.team.bottom >= 0) {
+                //     setSelectedEventKey(5);
                 } else if (pos.contact.top < window.innerHeight && pos.contact.bottom >= 0) {
                     setSelectedEventKey(6);
                 }
@@ -123,7 +123,7 @@ export default function Header({settings}) {
                         <li><Nav.Link eventKey={2} href="/#about">About</Nav.Link></li>
                         <li><Nav.Link eventKey={3} href="/#services">Services</Nav.Link></li>
                         <li><Nav.Link eventKey={4} href="/portfolio">Portfolio</Nav.Link></li>
-                        <li><Nav.Link eventKey={5} href="/#team">Team</Nav.Link></li>
+                        {/* <li><Nav.Link eventKey={5} href="/#team">Team</Nav.Link></li> */}
                         <li><Nav.Link eventKey={6} href="/#contact">Contact</Nav.Link></li>
                     </ul>
                 </Nav>

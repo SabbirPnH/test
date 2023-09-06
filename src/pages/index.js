@@ -113,8 +113,8 @@ export default function Home() {
             <div className="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
               <div className="service-item position-relative">
                 <div className="icon"><i className="bi bi-activity icon"></i></div>
-                <h4><a href="" className="stretched-link">10 Years of Experience</a></h4>
-                <p>We have been workning on this feild since 2013. </p>
+                <h4><a href="" className="stretched-link">5 Years of Experience</a></h4>
+                <p>We have been workning on this feild since 2019 </p>
               </div>
             </div>
 
@@ -892,7 +892,7 @@ export default function Home() {
 
       {/* <Portfolio /> */}
 
-      <section id="team" className="team">
+      {/* <section id="team" className="team">
         <div className="container" data-aos="fade-up">
 
           <div className="section-header">
@@ -987,7 +987,7 @@ export default function Home() {
           </div>
 
         </div>
-      </section>
+      </section> */}
 
 
 
