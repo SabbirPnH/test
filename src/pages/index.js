@@ -226,7 +226,7 @@ export default function Home() {
 
                 <div className="tab-pane fade show" id="tab3">
 
-                  <p className="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+                  <p className="fst-italic">To be a global leader in technology innovation, empowering businesses and individuals to thrive in the digital age. We envision a future where our cutting-edge solutions and services transform industries, drive sustainable growth, and enhance the quality of life for people worldwide. Our commitment to excellence, innovation, and ethical business practices will continue to guide us as we shape the future of IT.</p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
@@ -355,11 +355,10 @@ export default function Home() {
               <div className="content d-flex flex-column justify-content-center h-100">
                 <h3>Voluptatem dignissimos provident quasi corporis</h3>
                 <p className="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                I believe as an IT Firm, PNH is outstanding and committed to provide sincere service to its valued clients. I find it preactive in service. 
                 </p>
                 <ul>
-                  <li><i className="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                  <li><i className="bi bi-check-circle"></i> We play a crucial role in the modern world, as technology has become an integral part of virtually every aspect of business and daily life.</li>
                 </ul>
                 <a href="#" className="read-more align-self-start"><span>Read More</span><i className="bi bi-arrow-right"></i></a>
               </div>
@@ -378,42 +377,42 @@ export default function Home() {
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
                 <i className="bi bi-binoculars color-cyan"></i>
-                <h4>Modinest</h4>
+                <h4>E-commerce</h4>
               </a>
             </li>
 
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
                 <i className="bi bi-box-seam color-indigo"></i>
-                <h4>Undaesenti</h4>
+                <h4>POS/Inventory</h4>
               </a>
             </li>
 
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
                 <i className="bi bi-brightness-high color-teal"></i>
-                <h4>Pariatur</h4>
+                <h4>Domain</h4>
               </a>
             </li>
 
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
                 <i className="bi bi-command color-red"></i>
-                <h4>Nostrum</h4>
+                <h4>Hosting</h4>
               </a>
             </li>
 
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
                 <i className="bi bi-easel color-blue"></i>
-                <h4>Adipiscing</h4>
+                <h4>School-college Erp</h4>
               </a>
             </li>
 
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-6">
                 <i className="bi bi-map color-orange"></i>
-                <h4>Reprehit</h4>
+                <h4>Account Management</h4>
               </a>
             </li>
 
@@ -424,21 +423,20 @@ export default function Home() {
             <div className="tab-pane active show" id="tab-1">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
-                  <h3>Modinest</h3>
+                  <h3>E-commerce</h3>
                   <p className="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
+                  E-commerce services encompass a wide range of offerings designed to support online businesses in various aspects of their operations. Whether you're starting an e-commerce business or looking to improve an existing one, here are some key e-commerce services you might consider:
                   </p>
                   <ul>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Website Development and Design: Creating an appealing and functional e-commerce website is essential. E-commerce website development services include designing user-friendly interfaces, optimizing for mobile devices, and integrating secure payment gateways.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> E-commerce Platform Setup: Choosing the right e-commerce platform (e.g., Shopify, WooCommerce, Magento) is crucial. E-commerce services can assist in selecting, setting up, and customizing the platform to meet your specific business needs.</li>
+                    {/* <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li> */}
                   </ul>
-                  <p>
+                  {/* <p>
                     Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
                     velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
                     culpa qui officia deserunt mollit anim id est laborum
-                  </p>
+                  </p> */}
                 </div>
                 <div className="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
                   <img src="assets/img/features-1.svg" alt="" className="img-fluid" />
@@ -449,21 +447,19 @@ export default function Home() {
             <div className="tab-pane" id="tab-2">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1">
-                  <h3>Undaesenti</h3>
+                  <h3>POS/Inventory</h3>
                   <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                  Point of Sale (POS) and Inventory management services are crucial for businesses that sell physical products, whether they operate in retail, e-commerce, hospitality, or other industries. These services help businesses efficiently manage their sales, track inventory levels, and optimize operations. Here are some key components and functionalities of POS and inventory management services:
                   </p>
-                  <p className="fst-italic">
+                  {/* <p className="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                     magna aliqua.
-                  </p>
+                  </p> */}
                   <ul>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Sales Processing: POS systems facilitate the processing of sales transactions, including accepting payments, issuing receipts, and calculating taxes.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Inventory Integration: POS software should integrate seamlessly with your inventory management system to automatically update stock levels when sales occur.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Payment Processing: POS services often include payment processing capabilities, allowing businesses to accept various payment methods, including credit cards, debit cards, cash, and digital wallets.</li>
+                    {/* <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li> */}
                   </ul>
                 </div>
                 <div className="col-lg-4 order-1 order-lg-2 text-center">
@@ -475,21 +471,20 @@ export default function Home() {
             <div className="tab-pane" id="tab-3">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1">
-                  <h3>Pariatur</h3>
+                  <h3>Domain</h3>
                   <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                  Domain services refer to the services and activities associated with the registration, management, and maintenance of domain names on the internet. A domain name is the user-friendly web address (e.g., www.example.com) used to locate websites and online resources. Domain services are essential for individuals, businesses, and organizations to establish an online presence. Here are some key aspects of domain services:
+
                   </p>
                   <ul>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Domain Registration: Domain registration is the process of acquiring a domain name for a specified period, typically one year or more. Domain registrars are accredited organizations that facilitate domain registration. Users can search for available domain names, choose one that suits their needs, and register it through a domain registrar.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Domain Renewal: Domain names must be renewed periodically to maintain ownership and prevent expiration. Domain registrants receive renewal notices from their registrar and can renew the domain for an additional term.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Domain Transfer: Domain transfer services allow registrants to move their domain names from one registrar to another. This can be useful if a registrant wishes to consolidate their domains under a single registrar or change providers.</li>
                   </ul>
-                  <p className="fst-italic">
+                  {/* <p className="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                     magna aliqua.
-                  </p>
+                  </p> */}
                 </div>
                 <div className="col-lg-4 order-1 order-lg-2 text-center">
                   <img src="assets/img/features-3.svg" alt="" className="img-fluid" />
@@ -500,20 +495,22 @@ export default function Home() {
             <div className="tab-pane" id="tab-4">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1">
-                  <h3>Nostrum</h3>
+                  <h3>Hosting</h3>
                   <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                  Hosting services, often referred to as web hosting services, are essential for individuals and businesses looking to publish their websites or web applications on the internet. These services provide the infrastructure and technologies needed to make websites accessible to users worldwide. Here are the key components and types of hosting services:
+
                   </p>
-                  <p className="fst-italic">
+                  {/* <p className="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                     magna aliqua.
-                  </p>
+                  </p> */}
                   <ul>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Shared Hosting: Shared hosting is a budget-friendly option where multiple websites share the same server resources. It's suitable for small websites with low traffic. However, resource limitations and potential performance issues can arise as multiple sites share the same server.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Virtual Private Server (VPS) Hosting: VPS hosting offers a dedicated portion of a physical server with virtualization technology. Users have more control and resources compared to shared hosting. It's a good choice for medium-sized websites with moderate traffic.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Dedicated Hosting: Dedicated hosting provides an entire physical server dedicated to a single client. It offers maximum control, performance, and security. Dedicated hosting is ideal for large websites, e-commerce platforms, and applications with high traffic.</li><li><i className="bi bi-check-circle-fill"></i> Cloud Hosting: Cloud hosting utilizes a network of interconnected virtual servers (cloud infrastructure) to distribute resources dynamically. It offers scalability, flexibility, and redundancy, making it suitable for websites and applications with varying traffic loads.
+                    </li><li><i className="bi bi-check-circle-fill"></i> Managed Hosting: Managed hosting services include server management tasks such as software updates, security monitoring, and technical support. It allows website owners to focus on content and functionality without worrying about server administration.</li><li><i className="bi bi-check-circle-fill"></i> WordPress Hosting: WordPress hosting is optimized for WordPress-powered websites, offering features like one-click WordPress installation, automatic updates, and specialized support for WordPress-related issues.
+                    </li><li><i className="bi bi-check-circle-fill"></i> Reseller Hosting: Reseller hosting allows individuals or businesses to purchase server resources and sell hosting plans to others. It's a way for entrepreneurs to start their web hosting businesses.
+                    </li><li><i className="bi bi-check-circle-fill"></i> Email Hosting: Email hosting services focus on providing reliable email solutions, including email server setup, email account management, and spam filtering.</li>
                   </ul>
                 </div>
                 <div className="col-lg-4 order-1 order-lg-2 text-center">
@@ -525,20 +522,20 @@ export default function Home() {
             <div className="tab-pane" id="tab-5">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1">
-                  <h3>Adipiscing</h3>
+                  <h3>School-college Erp</h3>
                   <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                  A School-College ERP (Enterprise Resource Planning) service is a software solution designed to streamline and automate various administrative, academic, and operational processes within educational institutions, including schools and colleges. These ERP systems are tailored to meet the specific needs of educational organizations and can help improve efficiency, communication, and data management. Here are some key features and functionalities typically offered by School-College ERP services:
                   </p>
-                  <p className="fst-italic">
+                  {/* <p className="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                     magna aliqua.
-                  </p>
+                  </p> */}
                   <ul>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Student Information System (SIS):
+                      Student enrollment and ,Student attendance tracking, Grade management and transcripts
+                      Student performance analysis and reporting, Teacher and Staff Management.</li>
+                    {/* <li><i className="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li> */}
                   </ul>
                 </div>
                 <div className="col-lg-4 order-1 order-lg-2 text-center">
@@ -550,20 +547,21 @@ export default function Home() {
             <div className="tab-pane" id="tab-6">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1">
-                  <h3>Reprehit</h3>
+                  <h3>Account Management</h3>
                   <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                  Account management services refer to a range of financial and administrative services provided by various institutions to help individuals, businesses, and organizations manage their financial accounts and transactions effectively. These services are designed to simplify financial processes, enhance security, and provide support for account-related tasks. Here are some common types of account management services:
                   </p>
-                  <p className="fst-italic">
+                  {/* <p className="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                     magna aliqua.
-                  </p>
+                  </p> */}
                   <ul>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Bank Account Management:</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Online Banking: Access and manage bank accounts, check balances, view transaction history, pay bills, and transfer funds through secure online banking platforms.Mobile Banking: Perform banking tasks on mobile devices through dedicated banking apps, including check deposits via mobile capture.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Portfolio Management: Professional management of investment portfolios to achieve specific financial goals, risk tolerance, and investment strategies.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Robo-Advisors: Automated investment platforms that use algorithms to manage and optimize investment portfolios based on user preferences.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Credit Card Statements: View and manage credit card statements, transaction history, and available credit limits.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Payment Services: Set up automatic payments, pay bills, and monitor credit card activity to prevent fraud.</li>
                   </ul>
                 </div>
                 <div className="col-lg-4 order-1 order-lg-2 text-center">
@@ -583,7 +581,7 @@ export default function Home() {
 
           <div className="section-header">
             <h2>Our Services</h2>
-            <p>Ea vitae aspernatur deserunt voluptatem impedit deserunt magnam occaecati dssumenda quas ut ad dolores adipisci aliquam.</p>
+            <p>We provide comprehensive technological solutions to businesses and organizations to address their specific IT challenges and needs.</p>
           </div>
 
           <div className="row gy-5">
