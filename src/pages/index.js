@@ -233,13 +233,13 @@ export default function Home() {
                     <i className="bi bi-check2"></i>
                     <h4>Technological Leadership:</h4>
                   </div>
-                  <p>We aim to lead the way in technology innovation, setting industry standards and pushing the boundaries of what's achievable. Our solutions will be at the forefront of emerging technologies, driving progress and transformation.</p>
+                  <p>We aim to lead the way in technology innovation, setting industry standards and pushing the boundaries of what&apos;s achievable. Our solutions will be at the forefront of emerging technologies, driving progress and transformation.</p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
                     <h4>Positive Impact:</h4>
                   </div>
-                  <p>We aspire to create a positive impact on the world through our technology solutions. Whether it's by enhancing business efficiency, improving quality of life, or addressing global challenges, our work will leave a lasting, positive mark on society.</p>
+                  <p>We aspire to create a positive impact on the world through our technology solutions. Whether it&apo;s by enhancing business efficiency, improving quality of life, or addressing global challenges, our work will leave a lasting, positive mark on society.</p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
