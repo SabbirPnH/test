@@ -202,7 +202,7 @@ export default function Home() {
 
                 <div className="tab-pane fade show" id="tab2">
 
-                  <p className="fst-italic">Our goal is to empower organizations by leveraging the latest advancements in IT to drive productivity, efficiency, and growth. Whether it's developing custom software applications, implementing robust cybersecurity measures, or optimizing IT infrastructure, we have the expertise to deliver results. </p>
+                  <p className="fst-italic">Our goal is to empower organizations by leveraging the latest advancements in IT to drive productivity, efficiency, and growth. Whether it&apos;s developing custom software applications, implementing robust cybersecurity measures, or optimizing IT infrastructure, we have the expertise to deliver results. </p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
@@ -425,7 +425,7 @@ export default function Home() {
                 <div className="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
                   <h3>E-commerce</h3>
                   <p className="fst-italic">
-                  E-commerce services encompass a wide range of offerings designed to support online businesses in various aspects of their operations. Whether you're starting an e-commerce business or looking to improve an existing one, here are some key e-commerce services you might consider:
+                  E-commerce services encompass a wide range of offerings designed to support online businesses in various aspects of their operations. Whether you&apos;re starting an e-commerce business or looking to improve an existing one, here are some key e-commerce services you might consider:
                   </p>
                   <ul>
                     <li><i className="bi bi-check-circle-fill"></i> Website Development and Design: Creating an appealing and functional e-commerce website is essential. E-commerce website development services include designing user-friendly interfaces, optimizing for mobile devices, and integrating secure payment gateways.</li>
