@@ -3,11 +3,11 @@ import Image from "next/image";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Keyboard } from 'swiper';
 
-import testimonial_image_1 from "../../../public/assets/img/testimonials/testimonials-1.jpg";
-import testimonial_image_2 from "../../../public/assets/img/testimonials/testimonials-2.jpg";
-import testimonial_image_3 from "../../../public/assets/img/testimonials/testimonials-3.jpg";
-import testimonial_image_4 from "../../../public/assets/img/testimonials/testimonials-4.jpg";
-import testimonial_image_5 from "../../../public/assets/img/testimonials/testimonials-5.jpg";
+import testimonial_image_1 from "../../../public/assets/img/testimonials/testimonials-1.png";
+import testimonial_image_2 from "../../../public/assets/img/testimonials/testimonials-2.png";
+import testimonial_image_3 from "../../../public/assets/img/testimonials/testimonials-3.png";
+import testimonial_image_4 from "../../../public/assets/img/testimonials/testimonials-4.png";
+import testimonial_image_5 from "../../../public/assets/img/testimonials/testimonials-5.png";
 
 export default function Testimonial() {
 

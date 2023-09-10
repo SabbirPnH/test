@@ -182,21 +182,21 @@ export default function Home() {
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
-                    <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                    <h4>Software Development Solutions:</h4>
                   </div>
-                  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                  <p>Developing custom software applications to address specific business needs. This could involve programming languages like Python, Java, C++, or web development technologies like HTML, CSS, and JavaScript.</p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
-                    <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                    <h4>IT Support and Managed Services:</h4>
                   </div>
-                  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+                  <p>Outsourcing IT support or opting for managed services to ensure the ongoing maintenance, monitoring, and support of IT systems.</p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
-                    <h4>Omnis ab quia nemo dignissimos rem eum quos..</h4>
+                    <h4>Infrastructure Solutions:</h4>
                   </div>
-                  <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
+                  <p>Building and maintaining physical IT infrastructure, including servers, data centers, and storage systems.</p>
 
                 </div>
 
@@ -206,21 +206,22 @@ export default function Home() {
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
-                    <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                    <h4>Excellence:</h4>
                   </div>
-                  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                  <p>We strive for excellence in everything we do, from delivering high-quality    software and hardware solutions to providing top-notch customer service.</p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
-                    <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                    <h4>Innovation:</h4>
                   </div>
-                  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+                  <p>We are dedicated to staying at the forefront of technological advancements. We continuously seek innovative solutions to address the unique needs and challenges of our clients.</p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
-                    <h4>Omnis ab quia nemo dignissimos rem eum quos..</h4>
+                    <h4>Integrity:</h4>
                   </div>
-                  <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
+                  <p>Integrity is the foundation of our business. We uphold the highest ethical standards in all our interactions, maintaining transparency and honesty with our clients, employees, and partners.
+</p>
 
                 </div>
 
@@ -230,21 +231,21 @@ export default function Home() {
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
-                    <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                    <h4>Technological Leadership:</h4>
                   </div>
-                  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                  <p>We aim to lead the way in technology innovation, setting industry standards and pushing the boundaries of what's achievable. Our solutions will be at the forefront of emerging technologies, driving progress and transformation.</p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
-                    <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                    <h4>Positive Impact:</h4>
                   </div>
-                  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+                  <p>We aspire to create a positive impact on the world through our technology solutions. Whether it's by enhancing business efficiency, improving quality of life, or addressing global challenges, our work will leave a lasting, positive mark on society.</p>
 
                   <div className="d-flex align-items-center mt-4">
                     <i className="bi bi-check2"></i>
-                    <h4>Omnis ab quia nemo dignissimos rem eum quos..</h4>
+                    <h4>Global Reach:</h4>
                   </div>
-                  <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
+                  <p>We envision a global presence, with our technology solutions touching lives and businesses across continents. We will expand our reach to serve a diverse range of clients, industries, and communities.</p>
 
                 </div>
               </div>
@@ -353,9 +354,9 @@ export default function Home() {
             </div>
             <div className="col-lg-6">
               <div className="content d-flex flex-column justify-content-center h-100">
-                <h3>Voluptatem dignissimos provident quasi corporis</h3>
+                <h3>A wide range of topics and technologies, so it would be helpful for all.</h3>
                 <p className="fst-italic">
-                I believe as an IT Firm, PNH is outstanding and committed to provide sincere service to its valued clients. I find it preactive in service. 
+                We believe as an IT Firm, PNH is outstanding and committed to provide sincere service to its valued clients. I find it preactive in service. 
                 </p>
                 <ul>
                   <li><i className="bi bi-check-circle"></i> We play a crucial role in the modern world, as technology has become an integral part of virtually every aspect of business and daily life.</li>
