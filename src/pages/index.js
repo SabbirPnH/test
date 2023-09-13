@@ -113,8 +113,8 @@ export default function Home() {
             <div className="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
               <div className="service-item position-relative">
                 <div className="icon"><i className="bi bi-activity icon"></i></div>
-                <h4><a href="" className="stretched-link">5 Years of Experience</a></h4>
-                <p>We have been workning on this feild since 2019 </p>
+                <h4><a href="" className="stretched-link">8+ Years of Experience</a></h4>
+                <p>We have been workning on this feild since 2015</p>
               </div>
             </div>
 
@@ -161,7 +161,7 @@ export default function Home() {
 
             <div className="col-lg-5">
               <div className="about-img">
-                <img src="assets/img/about.jpg" className="img-fluid" alt="" />
+                <img src="assets/img/about.png" className="img-fluid" alt="" />
               </div>
             </div>
 
@@ -392,16 +392,16 @@ export default function Home() {
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
                 <i className="bi bi-brightness-high color-teal"></i>
-                <h4>Domain</h4>
+                <h4>Domain & Hosting</h4>
               </a>
             </li>
 
-            <li className="nav-item col-6 col-md-4 col-lg-2">
+            {/* <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
                 <i className="bi bi-command color-red"></i>
                 <h4>Hosting</h4>
               </a>
-            </li>
+            </li> */}
 
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
@@ -472,15 +472,15 @@ export default function Home() {
             <div className="tab-pane" id="tab-3">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1">
-                  <h3>Domain</h3>
+                  <h3>Domain & Hosting</h3>
                   <p>
-                  Domain services refer to the services and activities associated with the registration, management, and maintenance of domain names on the internet. A domain name is the user-friendly web address (e.g., www.example.com) used to locate websites and online resources. Domain services are essential for individuals, businesses, and organizations to establish an online presence. Here are some key aspects of domain services:
+                  Domain and hosting services are essential components for establishing and maintaining a website or online presence.Domain services refer to the services and activities associated with the registration, management, and maintenance of domain names on the internet. A domain name is the user-friendly web address (e.g., www.example.com) used to locate websites and online resources. Hosting services provide the infrastructure and technologies needed to make websites accessible to users worldwide.
 
                   </p>
                   <ul>
-                    <li><i className="bi bi-check-circle-fill"></i> Domain Registration: Domain registration is the process of acquiring a domain name for a specified period, typically one year or more. Domain registrars are accredited organizations that facilitate domain registration. Users can search for available domain names, choose one that suits their needs, and register it through a domain registrar.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Domain Renewal: Domain names must be renewed periodically to maintain ownership and prevent expiration. Domain registrants receive renewal notices from their registrar and can renew the domain for an additional term.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Domain Transfer: Domain transfer services allow registrants to move their domain names from one registrar to another. This can be useful if a registrant wishes to consolidate their domains under a single registrar or change providers.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Domain Registration and Renewal: A domain name is the unique web address that users type into their browsers to access a website. Domain registration is the process of acquiring and owning a domain name. You can register domain names through domain registrars, which are accredited by domain authorities like ICANN (Internet Corporation for Assigned Names and Numbers).</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Web Hosting: Web hosting is a service that provides the necessary infrastructure (servers and storage) to store and serve website files and content to visitors on the internet. There are different types of web hosting, including shared hosting, VPS hosting, dedicated hosting, and cloud hosting, each offering varying levels of resources and control.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Server Management: Depending on the type of hosting service you choose, you may have varying degrees of control over server settings and configurations. Managed hosting services handle server maintenance, security, and updates, while unmanaged services require you to manage these aspects yourself.</li>
                   </ul>
                   {/* <p className="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
@@ -493,7 +493,7 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="tab-pane" id="tab-4">
+            {/* <div className="tab-pane" id="tab-4">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1">
                   <h3>Hosting</h3>
@@ -501,10 +501,10 @@ export default function Home() {
                   Hosting services, often referred to as web hosting services, are essential for individuals and businesses looking to publish their websites or web applications on the internet. These services provide the infrastructure and technologies needed to make websites accessible to users worldwide. Here are the key components and types of hosting services:
 
                   </p>
-                  {/* <p className="fst-italic">
+                  <p className="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                     magna aliqua.
-                  </p> */}
+                  </p>
                   <ul>
                     <li><i className="bi bi-check-circle-fill"></i> Shared Hosting: Shared hosting is a budget-friendly option where multiple websites share the same server resources. It&apos;s suitable for small websites with low traffic. However, resource limitations and potential performance issues can arise as multiple sites share the same server.</li>
                     <li><i className="bi bi-check-circle-fill"></i> Virtual Private Server (VPS) Hosting: VPS hosting offers a dedicated portion of a physical server with virtualization technology. Users have more control and resources compared to shared hosting. It&apos;s a good choice for medium-sized websites with moderate traffic.</li>
@@ -518,7 +518,7 @@ export default function Home() {
                   <img src="assets/img/features-4.svg" alt="" className="img-fluid" />
                 </div>
               </div>
-            </div>
+            </div> */}
 
             <div className="tab-pane" id="tab-5">
               <div className="row gy-4">
@@ -590,7 +590,7 @@ export default function Home() {
             <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
               <div className="service-item">
                 <div className="img">
-                  <img src="assets/img/services-1.jpg" className="img-fluid" alt="" />
+                  <img src="assets/img/services-1.png" className="img-fluid" alt="" />
                 </div>
                 <div className="details position-relative">
                   <div className="icon">
@@ -599,7 +599,7 @@ export default function Home() {
                   <a href="#" className="stretched-link">
                     <h3>Software Development</h3>
                   </a>
-                  <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis.</p>
+                  <p>Designing, coding, testing, and maintaining programs to solve problems and meet needs.</p>
                 </div>
               </div>
             </div>
@@ -607,7 +607,7 @@ export default function Home() {
             <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
               <div className="service-item">
                 <div className="img">
-                  <img src="assets/img/services-2.jpg" className="img-fluid" alt="" />
+                  <img src="assets/img/services-2.png" className="img-fluid" alt="" />
                 </div>
                 <div className="details position-relative">
                   <div className="icon">
@@ -616,14 +616,14 @@ export default function Home() {
                   <a href="#" className="stretched-link">
                     <h3>Web Development</h3>
                   </a>
-                  <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+                  <p>UI design, coding functionality. Define site goals, audience, and content.</p>
                 </div>
               </div>
             </div>
             <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
               <div className="service-item">
                 <div className="img">
-                  <img src="assets/img/services-3.jpg" className="img-fluid" alt="" />
+                  <img src="assets/img/services-3.png" className="img-fluid" alt="" />
                 </div>
                 <div className="details position-relative">
                   <div className="icon">
@@ -632,7 +632,7 @@ export default function Home() {
                   <a href="#" className="stretched-link">
                     <h3>Mobile Apps Development</h3>
                   </a>
-                  <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+                  <p>Develop app UI (Swift/Objective-C for iOS, Java/Kotlin for Android), set up servers, databases, APIs, and conduct thorough testing.</p>
                 </div>
               </div>
             </div>
@@ -640,7 +640,7 @@ export default function Home() {
             <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
               <div className="service-item">
                 <div className="img">
-                  <img src="assets/img/services-4.jpg" className="img-fluid" alt="" />
+                  <img src="assets/img/services-4.png" className="img-fluid" alt="" />
                 </div>
                 <div className="details position-relative">
                   <div className="icon">
@@ -649,7 +649,7 @@ export default function Home() {
                   <a href="#" className="stretched-link">
                     <h3>Graphics Design</h3>
                   </a>
-                  <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+                  <p>Visual communication through typography, imagery, color, layout for print, digital, & multimedia.</p>
                   <a href="#" className="stretched-link"></a>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Home() {
             <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
               <div className="service-item">
                 <div className="img">
-                  <img src="assets/img/services-5.jpg" className="img-fluid" alt="" />
+                  <img src="assets/img/services-5.png" className="img-fluid" alt="" />
                 </div>
                 <div className="details position-relative">
                   <div className="icon">
@@ -667,7 +667,7 @@ export default function Home() {
                   <a href="#" className="stretched-link">
                     <h3>Digital Marketing</h3>
                   </a>
-                  <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
+                  <p>Utilizes online strategies (SEO, Social Media, Email, Affiliate, E-commerce, Influencer) to promote products, brands, and individuals.</p>
                   <a href="#" className="stretched-link"></a>
                 </div>
               </div>
@@ -676,7 +676,7 @@ export default function Home() {
             <div className="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
               <div className="service-item">
                 <div className="img">
-                  <img src="assets/img/services-6.jpg" className="img-fluid" alt="" />
+                  <img src="assets/img/services-6.png" className="img-fluid" alt="" />
                 </div>
                 <div className="details position-relative">
                   <div className="icon">
@@ -685,7 +685,7 @@ export default function Home() {
                   <a href="#" className="stretched-link">
                     <h3>Brand Building</h3>
                   </a>
-                  <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
+                  <p>Cultivating a strong, trusted identity for business, product, or individual, fostering loyalty and credibility.</p>
                   <a href="#" className="stretched-link"></a>
                 </div>
               </div>
@@ -812,12 +812,15 @@ export default function Home() {
                   <h3 className="accordion-header">
                     <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
                       <i className="bi bi-question-circle question-icon"></i>
-                      Non consectetur a erat nam at lectus urna duis?
+                      What kinds of services do you provide?
                     </button>
                   </h3>
                   <div id="faq-content-1" className="accordion-collapse collapse" data-bs-parent="#faqlist">
                     <div className="accordion-body">
-                      Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                    We are committed to serve all kinds of IT Service 
+                    like- Website, Software, Domain, Hosting, 
+                    Graphics Design, and Digital Marketing.
+
                     </div>
                   </div>
                 </div>
@@ -826,12 +829,14 @@ export default function Home() {
                   <h3 className="accordion-header">
                     <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
                       <i className="bi bi-question-circle question-icon"></i>
-                      Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
+                      Why partner with PNH IT Solutions?
+
                     </button>
                   </h3>
                   <div id="faq-content-2" className="accordion-collapse collapse" data-bs-parent="#faqlist">
                     <div className="accordion-body">
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                    With over 8+ years of experience serving the IT needs of a small to medium-sized business, Uniserve IT Solutions has been able to navigate the ever-shifting world of IT by keeping ahead of the trends. Setting ourselves as an example, our clients have benefited from our advanced solutions as we continuously provide more value and efficiency to exceed their expectations.
+
                     </div>
                   </div>
                 </div>
@@ -840,12 +845,14 @@ export default function Home() {
                   <h3 className="accordion-header">
                     <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
                       <i className="bi bi-question-circle question-icon"></i>
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
+                      What is the process of after service?
+
                     </button>
                   </h3>
                   <div id="faq-content-3" className="accordion-collapse collapse" data-bs-parent="#faqlist">
                     <div className="accordion-body">
-                      Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                    This revision will provide you with a solid foundation for understanding IT services and IT service management principles.We are committed to provide 4 month revision after service/product placement. 
+
                     </div>
                   </div>
                 </div>
@@ -854,18 +861,18 @@ export default function Home() {
                   <h3 className="accordion-header">
                     <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
                       <i className="bi bi-question-circle question-icon"></i>
-                      Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+                      What is your response time?
                     </button>
                   </h3>
                   <div id="faq-content-4" className="accordion-collapse collapse" data-bs-parent="#faqlist">
                     <div className="accordion-body">
                       <i className="bi bi-question-circle question-icon"></i>
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                      We do our best to settle issues as soon as possible. We always ensure a fast response time and have our help desk support available to assist you. Our goal is to deliver the best quality of service and meet your IT needs and minimize any disruptions or downtime related to your system.
                     </div>
                   </div>
                 </div>
 
-                <div className="accordion-item" data-aos="fade-up" data-aos-delay="600">
+                {/* <div className="accordion-item" data-aos="fade-up" data-aos-delay="600">
                   <h3 className="accordion-header">
                     <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
                       <i className="bi bi-question-circle question-icon"></i>
@@ -877,7 +884,7 @@ export default function Home() {
                       Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
                     </div>
                   </div>
-                </div>
+                </div> */}
 
               </div>
 
@@ -995,7 +1002,7 @@ export default function Home() {
 
           <div className="section-header">
             <h2>Contact Us</h2>
-            <p>Ea vitae aspernatur deserunt voluptatem impedit deserunt magnam occaecati dssumenda quas ut ad dolores adipisci aliquam.</p>
+            <p>Here are some general steps to help you find the contact information you need.</p>
           </div>
 
         </div>
