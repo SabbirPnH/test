@@ -396,17 +396,17 @@ export default function Home() {
               </a>
             </li>
 
-            {/* <li className="nav-item col-6 col-md-4 col-lg-2">
+            <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
                 <i className="bi bi-command color-red"></i>
-                <h4>Hosting</h4>
+                <h4>School-college</h4>
               </a>
-            </li> */}
+            </li>
 
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
                 <i className="bi bi-easel color-blue"></i>
-                <h4>School-college Erp</h4>
+                <h4> Erp</h4>
               </a>
             </li>
 
