@@ -406,7 +406,7 @@ export default function Home() {
             <li className="nav-item col-6 col-md-4 col-lg-2">
               <a className="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
                 <i className="bi bi-easel color-blue"></i>
-                <h4> Erp</h4>
+                <h4>Erp</h4>
               </a>
             </li>
 
@@ -493,50 +493,51 @@ export default function Home() {
               </div>
             </div>
 
-            {/* <div className="tab-pane" id="tab-4">
+            <div className="tab-pane" id="tab-4">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1">
-                  <h3>Hosting</h3>
+                  <h3>School-College</h3>
                   <p>
-                  Hosting services, often referred to as web hosting services, are essential for individuals and businesses looking to publish their websites or web applications on the internet. These services provide the infrastructure and technologies needed to make websites accessible to users worldwide. Here are the key components and types of hosting services:
+                  Creating a school or college web application can be a complex but rewarding endeavor. Such applications can streamline various administrative tasks, enhance communication between students, teachers, and parents, and provide valuable resources for the educational community. Below, I'll outline some key features and considerations for developing a school or college web application.
 
                   </p>
                   <p className="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
+                  Key Features and Functionalities:
                   </p>
                   <ul>
-                    <li><i className="bi bi-check-circle-fill"></i> Shared Hosting: Shared hosting is a budget-friendly option where multiple websites share the same server resources. It&apos;s suitable for small websites with low traffic. However, resource limitations and potential performance issues can arise as multiple sites share the same server.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Virtual Private Server (VPS) Hosting: VPS hosting offers a dedicated portion of a physical server with virtualization technology. Users have more control and resources compared to shared hosting. It&apos;s a good choice for medium-sized websites with moderate traffic.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Dedicated Hosting: Dedicated hosting provides an entire physical server dedicated to a single client. It offers maximum control, performance, and security. Dedicated hosting is ideal for large websites, e-commerce platforms, and applications with high traffic.</li><li><i className="bi bi-check-circle-fill"></i> Cloud Hosting: Cloud hosting utilizes a network of interconnected virtual servers (cloud infrastructure) to distribute resources dynamically. It offers scalability, flexibility, and redundancy, making it suitable for websites and applications with varying traffic loads.
-                    </li><li><i className="bi bi-check-circle-fill"></i> Managed Hosting: Managed hosting services include server management tasks such as software updates, security monitoring, and technical support. It allows website owners to focus on content and functionality without worrying about server administration.</li><li><i className="bi bi-check-circle-fill"></i> WordPress Hosting: WordPress hosting is optimized for WordPress-powered websites, offering features like one-click WordPress installation, automatic updates, and specialized support for WordPress-related issues.
-                    </li><li><i className="bi bi-check-circle-fill"></i> Reseller Hosting: Reseller hosting allows individuals or businesses to purchase server resources and sell hosting plans to others. It&apos;s a way for entrepreneurs to start their web hosting businesses.
-                    </li><li><i className="bi bi-check-circle-fill"></i> Email Hosting: Email hosting services focus on providing reliable email solutions, including email server setup, email account management, and spam filtering.</li>
+                    <li><i className="bi bi-check-circle-fill"></i>User Authentication: Implement a secure authentication system to ensure that only authorized users (students, teachers, parents, and administrators) can access the application.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> User Profiles: Allow users to create and manage their profiles, including personal information, contact details, and profile pictures.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Announcements and Notifications: Provide a centralized platform for posting school-wide or class-specific announcements and sending notifications to users via email or push notifications.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Course Management: Allow teachers to create and manage course materials, syllabi, assignments, and grading through the application. Students should be able to access these resources.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Attendance Tracking: Enable teachers to take attendance digitally and allow parents to view their child's attendance records.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Online Gradebook: Create a digital gradebook where teachers can input grades and students and parents can access their academic performance.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Homework and Assignments: Provide a space for teachers to post homework assignments and for students to submit them electronically.</li>
+                    {/* <li><i className="bi bi-check-circle-fill"></i> Discussion Forums: Implement discussion boards or forums for students to collaborate on projects, ask questions, and share resources.</li> */}
                   </ul>
                 </div>
                 <div className="col-lg-4 order-1 order-lg-2 text-center">
                   <img src="assets/img/features-4.svg" alt="" className="img-fluid" />
                 </div>
               </div>
-            </div> */}
+            </div>
 
             <div className="tab-pane" id="tab-5">
               <div className="row gy-4">
                 <div className="col-lg-8 order-2 order-lg-1">
-                  <h3>School-college Erp</h3>
+                  <h3>Erp</h3>
                   <p>
-                  A School-College ERP (Enterprise Resource Planning) service is a software solution designed to streamline and automate various administrative, academic, and operational processes within educational institutions, including schools and colleges. These ERP systems are tailored to meet the specific needs of educational organizations and can help improve efficiency, communication, and data management. Here are some key features and functionalities typically offered by School-College ERP services:
+                    An Enterprise Resource Planning (ERP) system is a powerful software solution that helps organizations manage and streamline their core business processes. When implemented as a web application, an ERP system becomes even more accessible and flexible, allowing users to access critical business data and functionalities from anywhere with an internet connection. Below, I'll provide an overview of the key components and benefits of an ERP system web application.
                   </p>
-                  {/* <p className="fst-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
-                  </p> */}
+                  <p className="fst-italic">
+                    Key Components of an ERP System Web Application:
+                  </p>
                   <ul>
-                    <li><i className="bi bi-check-circle-fill"></i> Student Information System (SIS):
-                      Student enrollment and ,Student attendance tracking, Grade management and transcripts
-                      Student performance analysis and reporting, Teacher and Staff Management.</li>
-                    {/* <li><i className="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i className="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li> */}
+                    <li><i className="bi bi-check-circle-fill"></i> User Authentication and Access Control: Secure user authentication is fundamental to ERP systems. Role-based access control ensures that employees only have access to the data and functionalities relevant to their job roles.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Dashboard: A central dashboard provides an overview of key performance indicators (KPIs), giving users quick access to real-time insights into the organization's operations.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Reporting and Analytics: Advanced reporting and analytics tools allow users to generate customized reports, charts, and graphs to gain insights into their data.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Integration Capabilities: ERP systems often integrate with other software and systems, such as e-commerce platforms, third-party APIs, and legacy systems, to ensure data consistency and streamline operations.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Workflow Automation: Automate routine tasks and processes to improve efficiency and reduce manual errors.</li>
+                    <li><i className="bi bi-check-circle-fill"></i> Mobile Accessibility: A web-based ERP system should be mobile-responsive, allowing users to access the application from smartphones and tablets.</li>
                   </ul>
                 </div>
                 <div className="col-lg-4 order-1 order-lg-2 text-center">
