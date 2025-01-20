@@ -41,7 +41,6 @@ export default function Portfolio() {
             <h2>Portfolio</h2>
             <p>Non hic nulla eum consequatur maxime ut vero memo vero totam officiis pariatur eos dolorum sed fug dolorem est possimus esse quae repudiandae. Dolorem id enim officiis sunt deserunt esse soluta consequatur quaerat</p>
         </div>
-
         </div>
 
         <div className="container-fluid" data-aos="fade-up" data-aos-delay="200">

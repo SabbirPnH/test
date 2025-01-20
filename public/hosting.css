@@ -1,0 +1,49 @@
+.hero-section {
+    padding: 60px 0;
+    position: relative;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .hero-title {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .hero-description {
+    margin: 20px 0;
+    font-size: 1.2rem;
+    color: #ccc;
+  }
+  
+  .btn-primary-custom {
+    background-color: #ff6600;
+    border-color: #ff6600;
+    color: #fff;
+  }
+  
+  .btn-secondary-custom {
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
+  }
+  
+  .btn-secondary-custom:hover {
+    background-color: #ff6600;
+    color: #fff;
+  }
+  
+  .hero-image {
+    max-width: 100%;
+  }
+  
+  .overlay-bg {
+    background: linear-gradient(to right, #000 50%, rgba(0, 0, 0, 0) 100%);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+  }
+  

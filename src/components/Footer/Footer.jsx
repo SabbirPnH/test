@@ -89,7 +89,7 @@ export default function Footer() {
                             <li><i className="bi bi-chevron-right"></i><Nav.Link eventKey={1} href="/#hero">Home</Nav.Link></li>
                             <li><i className="bi bi-chevron-right"></i><Nav.Link eventKey={2} href="/#about">About</Nav.Link></li>
                             <li><i className="bi bi-chevron-right"></i><Nav.Link eventKey={3} href="/#services">Services</Nav.Link></li>
-                            <li><i className="bi bi-chevron-right"></i><Nav.Link eventKey={4} href="/portfolio">Portfolio</Nav.Link></li>
+                            <li><i className="bi bi-chevron-right"></i><Nav.Link eventKey={4} href="https://portfolio.pnhbd.com/">Portfolio</Nav.Link></li>
                             <li><i className="bi bi-chevron-right"></i><Nav.Link eventKey={5} href="/#team">Team</Nav.Link></li>
                             <li><i className="bi bi-chevron-right"></i><Nav.Link eventKey={6} href="/#contact">Contact</Nav.Link></li>
                         </ul>

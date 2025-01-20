@@ -2,6 +2,8 @@ import Link from 'next/link';
 import { useRouter } from "next/router";
 import { useEffect, useState } from 'react';
 
+
+
 export default function Header({settings}) {
     // const [sisterConcern, setSisterConcern]=useState(false);  
     // const [menuHomeActive, setMenuHomeActive] = useState(false);
@@ -63,7 +65,8 @@ export default function Header({settings}) {
     //     });
     // }
 
-    
+
+
     return (
         <>
         <header id="header" className={`header fixed-top ${scrolled}`} data-scrollto-offset="0">
@@ -72,14 +75,15 @@ export default function Header({settings}) {
             <Link href="/" className="logo d-flex align-items-center me-auto me-lg-0">
                 <h1>HeroBiz<span>.</span></h1>
             </Link>
-
             <nav id="navbar" className="navbar">
+
                 <ul>
                     <li><Link className="nav-link" href="/#hero" scroll={false}>Home</Link></li>
                     <li><Link className="nav-link" href="/#about" scroll={false}>About</Link></li>
                     <li><Link className="nav-link" href="/#services" scroll={false}>Services</Link></li>
                     <li><Link className="nav-link" href="/#portfolio" scroll={false}>Portfolio</Link></li>
                     <li><Link className="nav-link" href="/#team" scroll={false}>Team</Link></li>
+                    
                     {/* <li><a href="/blog">Blog</a></li> */}
                     {/* <li className="dropdown megamenu"><a href="#"><span>Mega Menu</span> <i className="bi bi-chevron-down dropdown-indicator"></i></a>
                         <ul>
@@ -126,11 +130,9 @@ export default function Header({settings}) {
                 </ul>
                 <i className="bi bi-list mobile-nav-toggle d-none"></i>
             </nav>
-
             <Link className="btn-getstarted" href="/#contact" scroll={false}>Get Started</Link>
-
             </div>
-        </header>
+        </header> 
         </>
     )
 }
