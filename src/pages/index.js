@@ -1,3 +1,4 @@
+
 import Head from "next/head";
 import Lightbox from "yet-another-react-lightbox";
 import Video from "yet-another-react-lightbox/plugins/video";
@@ -16,6 +17,7 @@ import { FaWhatsapp } from "react-icons/fa";
 import { IoMdCall } from "react-icons/io";
 import { IoMdMail } from "react-icons/io";
 import { RiMapPinLine } from "react-icons/ri";
+
 
 export default function Home() {
   const [aboutUsVideoOpen, setAboutUsVideoOpen] = useState(false);
@@ -112,11 +114,11 @@ export default function Home() {
         const data = await response.json();
         setClients(data);
 
-        const titleResponse = await fetch(
-          "https://admin.pnhit.pnhbd.com/api/clients-title"
-        );
-        const titleData = await titleResponse.json();
-        setTitle(titleData.title);
+        // const titleResponse = await fetch(
+        //   "https://admin.pnhit.pnhbd.com/api/clients-title"
+        // );
+        // const titleData = await titleResponse.json();
+        // setTitle(titleData.title);
       } catch (error) {
         console.error("Error fetching data:", error);
       }
@@ -609,9 +611,7 @@ export default function Home() {
             <div className="section-header">
               <h2>Hosting Service</h2>
               <p>
-                We also provide domain & hosting service as we are one-stop
-                solution. So no need to worry. We will provide each and
-                everything that you need.
+              We are your one-stop solution for all your needs, including domain and hosting services. No need to worry—we’ve got everything covered! Get started with just one <Link target="_blank" className="text-orange"  href="https://hosting.pnhdns.com/index.php">Click Here to Learn More</Link>
               </p>
             </div>
 
